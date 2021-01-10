@@ -1,3 +1,18 @@
 Hello World --MH
 
+i used git bash for as Command Line Interface
+
+I opened a git bash, 
+***i cloned your rep in my file***** 
+( git clone https://github.com/MathieuHoude/ExerciceGit1.git),  
+i accessed the folder by CD ExerciceGit1,
+****I created my branch by  git checkout -b Ines*****,
+listed the files ls in ExerciceGit1,
+made the defaut text editor by 
+***git config --global core.editor 'nano'*****,
+****oppened the file by nano helloworld.txt*****,
+***added the edited file git add .(all files)***,
+***the commited the changed git commit -m'added some lines'
+******push******
+
 
